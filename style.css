@@ -1,0 +1,20 @@
+head{
+    width: 100%;
+}
+
+img{
+    width: 150px;
+}
+
+#principal{
+    background-image: url(IMAGENES/pink.jpg);
+    font-size: 50px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(234, 184, 191);
+}
+
+p{
+    background-color: rgb(231, 207, 219);
+    font-size: 30px;
+
+}
